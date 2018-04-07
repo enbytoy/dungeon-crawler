@@ -1,1 +1,2 @@
-# dungeon-crawler
+# Dungeon Crawler
+This is an attempt at creating my own text based dungeon crawling game, for no other reason than curiosity and self improvement. Anyone who wants to download this and edit it for some reason is allowed to, I'll be doing my best to comment my code and update this readme as I develop it. 
